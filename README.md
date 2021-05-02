@@ -1,2 +1,0 @@
-# qrscan
- QR Code Scan
